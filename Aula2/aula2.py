@@ -1,0 +1,6 @@
+print('=' * 50)
+print('\n')
+print('Oi')
+print('tchau')
+print('\n')
+print('=' * 50)
