@@ -1,0 +1,5 @@
+teste,18
+aaa,18
+ffff,32
+aaa,12
+aaa,3
